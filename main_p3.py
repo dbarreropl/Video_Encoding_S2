@@ -1,4 +1,3 @@
-# from rgb_yuv import rgb_to_yuv
 import os
 
 # f5 to run
